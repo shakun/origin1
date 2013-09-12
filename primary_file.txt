@@ -2,3 +2,4 @@ this is my first file.
  this change i will commit and then i will amend it.
 
 i want to make another change in my file.
+ this change will be reverted by using git revert.
