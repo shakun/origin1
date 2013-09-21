@@ -1,5 +1,5 @@
 					"title of the file : Welcome to git practice set"
-this is the primary file that i added to my project.
+this is the first file that i added to my project and i named it "primary_file.txt".
 
 this change i will commit and then i will amend it.
 
