@@ -4,3 +4,5 @@ this is my first file.
 i want to make another change in my file.
 
 this change will be only in new_feature barnch.
+
+i merged master and new_feature branches, and i will merge master and shorten_primary.
