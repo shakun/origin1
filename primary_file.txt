@@ -1,6 +1,7 @@
 					"title of the file : Welcome to git practice set"
-this is my first file.
- this change i will commit and then i will amend it.
+this is the primary file that i added to my project.
+
+this change i will commit and then i will amend it.
 
 i want to make another change in my file.
 
