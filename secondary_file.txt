@@ -1,5 +1,2 @@
-				"Welcome to the Second File"
-This is my second file, that i added to my project.
-
-I have been doing lots of work on my primary file but this is my first change to this file.
+this is my second file
 
