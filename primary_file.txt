@@ -1,10 +1,11 @@
 					"title of the file : Welcome to git practice set"
-this is the first file that i added to my project and i named it "primary_file.txt".
 
-this change i will commit and then i will amend it.
+This is the first file that I added to my project and I named it "primary_file.txt".
 
-i want to make another change in my file.
+This change I will commit and then I will amend it.
 
-this change will be only in new_feature barnch.
+I want to make another change in my file.
 
-i merged master and new_feature branches, and i will merge master and shorten_primary.
+This change will be only in new_feature barnch.
+
+I merged master and new_feature branches, and I will merge master and shorten_primary.
